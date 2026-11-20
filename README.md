@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DengueAI — Dengue Prediction & Risk Assessment System
 
 A full-stack academic MVP focused on Chattogram District, Bangladesh.
@@ -69,3 +70,7 @@ dengueai/
 - Add walk-forward validation, baseline comparison, calibrated uncertainty and risk thresholds.
 - Add authentication, rate limiting, structured logging, HTTPS and model versioning.
 - Only then deploy as a research dashboard; retain clear uncertainty and public-health disclaimers.
+=======
+# Dengue-Probability-
+FINALLYYYY
+>>>>>>> 73b2bc7accce9c4389736be58281396fd22381c3
